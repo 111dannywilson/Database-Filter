@@ -27,7 +27,7 @@ def receive_data():
     return data
 
 
-# Loca Database
+# Local Database
 # database = []
 output = receive_data()
 print(output)
